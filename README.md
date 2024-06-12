@@ -30,18 +30,18 @@ To run this project locally, you need a web browser and a code editor like VS Co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/valentines-day-interactive.git
+   git clone https://github.com/RidmiWeerasinghe/valentineSurprise.git
 2. Navigate to the project directory:
   ```bash
    cd valentines-day-interactive
 
-### Usage
+Usage
 Open index.html in your web browser to view the project.
 
-### Deployment
+Deployment
 The project is deployed on Netlify. You can access it using the following link: [Will You Be My Valentine?](https://will-you-be-my-valentineee.netlify.app/)
 
-### Built With
+Built With
 HTML
 CSS
 JavaScript
