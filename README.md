@@ -30,7 +30,7 @@ To run this project locally, you need a web browser and a code editor like VS Co
 
 1. Clone the repository:
    ```bash
-   git clone RidmiWeerasinghe/valentineSurprise
+   [git clone RidmiWeerasinghe/valentineSurprise](https://github.com/RidmiWeerasinghe/valentineSurprise.git)
    ```
 2. Navigate to the project directory:
    ```bash
